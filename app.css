@@ -1,0 +1,15 @@
+.intro-header {
+    background: url(img/intro-bg.jpg) no-repeat center center;
+}
+
+.banner {
+    background: url(img/banner-bg.jpg) no-repeat center center;
+}
+
+.intro-message h1, .intro-message h3 {
+    color: black;
+}
+
+.lead {
+    text-align: justify;
+}
